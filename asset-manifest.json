@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/appointment-info-slot-status/static/css/main.ea2eaa8b.css",
-    "main.js": "/appointment-info-slot-status/static/js/main.b1cc77b7.js",
+    "main.js": "/appointment-info-slot-status/static/js/main.e2630464.js",
     "static/js/787.21053ce4.chunk.js": "/appointment-info-slot-status/static/js/787.21053ce4.chunk.js",
     "index.html": "/appointment-info-slot-status/index.html",
     "main.ea2eaa8b.css.map": "/appointment-info-slot-status/static/css/main.ea2eaa8b.css.map",
-    "main.b1cc77b7.js.map": "/appointment-info-slot-status/static/js/main.b1cc77b7.js.map",
+    "main.e2630464.js.map": "/appointment-info-slot-status/static/js/main.e2630464.js.map",
     "787.21053ce4.chunk.js.map": "/appointment-info-slot-status/static/js/787.21053ce4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea2eaa8b.css",
-    "static/js/main.b1cc77b7.js"
+    "static/js/main.e2630464.js"
   ]
 }
