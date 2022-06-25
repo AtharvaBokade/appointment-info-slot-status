@@ -93,11 +93,7 @@ function App(props) {
       
     </div>
     </div>
-    <div className="footer_custom">
-        <h6 id="footer_text">This website is created for 
-        official purpose only
-        </h6>
-      </div>
+    
     </>
     );
   }
